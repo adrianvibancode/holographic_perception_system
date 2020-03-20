@@ -6,7 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-colorama = "*"
+Django = "==3.0.4"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
